@@ -1,0 +1,2 @@
+# springboot-shardingjdbc
+springboot整合shardingjdbc实现分库分表
